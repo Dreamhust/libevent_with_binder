@@ -1,11 +1,10 @@
 /**************************************************************************
-* Copyright:sky
-* Author: heji@skyworth.com
+* Author: heji
 * Date:2015-12-18
-* Description: oceanus system basic thread pool
+* Description:system basic thread pool
 **************************************************************************/
-#ifndef __OCEANUS_BASIC_THREADPOOL_H__
-#define __OCEANUS_BASIC_THREADPOOL_H__
+#ifndef __BASIC_THREADPOOL_H__
+#define __BASIC_THREADPOOL_H__
 #include <vector>  
 #include <string>  
 #include <functional>

@@ -1,8 +1,7 @@
 /**************************************************************************
-* Copyright:sky
-* Author: heji@skyworth.com
+* Author: heji
 * Date:2015-12-18
-* Description: oceanus system basic thread pool
+* Description: system basic thread pool
 **************************************************************************/
 #include <iostream>
 #include "ThreadPool.h"
